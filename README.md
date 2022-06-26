@@ -26,6 +26,10 @@ Calculate frequency of occurrence.
 Print the characters and its huffmancode.
 
 ## Program:
+```
+Developed by: ASHWIN AO
+Registration no: 212220230005
+```
 ``` Python
 # Get the input String
 string = 'My name is Ashwin Ao'
